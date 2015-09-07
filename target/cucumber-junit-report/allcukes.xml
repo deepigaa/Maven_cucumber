@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.619993">
+<testcase classname="Salesforce Login" name="Salesforce Login" time="21.619993">
+<system-out><![CDATA[Given I go to "loginURL" on "Mozilla".......................................passed
+And I enter "loginusername" as "deepigaa1gayathri@gmail.com"................passed
+And I enter "loginpassword" as "vishnu@2012"................................passed
+And I click on "loginButton"................................................passed
+Then login should be "success"..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
